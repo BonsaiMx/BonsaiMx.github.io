@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonsai Blog</title>
+    <description>Blog de tecnología en español, articulos de eventos y meetups en el DF, consejos y tutoriales, todo lo que necesitas saber sobre tecnología.
+</description>
+    <link>http://blog.bonsaitech.net/</link>
+    <atom:link href="http://blog.bonsaitech.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Jan 2016 22:58:44 -0600</pubDate>
+    <lastBuildDate>Wed, 27 Jan 2016 22:58:44 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>No trabajes doble, los estudios de mercado que estabas buscando ya existen y son Gratis.</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/thedatapub&quot;&gt;@TheDataPub&lt;/a&gt; es el grupo de Meetup donde se reunen los &lt;strong&gt;expertos en datos&lt;/strong&gt; de la Ciudad de México. Esta sesión se llevo acabo en &lt;a href=&quot;http://www.kmmx.mx/&quot;&gt;KMMX&lt;/a&gt;, donde nos sorprendieron con sus interesantes platicas los ponentes, &lt;strong&gt;ingenieros de datos&lt;/strong&gt;. &lt;strong&gt;cientificos de datos&lt;/strong&gt; e &lt;strong&gt;investigadores sociales&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.analitico.mx/&quot;&gt;Mi Potencial&lt;/a&gt; presentado por &lt;strong&gt;Moisés Arizpe&lt;/strong&gt; y &lt;strong&gt;Ángel Rodriguez&lt;/strong&gt; de &lt;a href=&quot;https://twitter.com/numericomx&quot;&gt;Numérico&lt;/a&gt; es la herramienta con la que puedes obtener tus &lt;strong&gt;estudios de mercado&lt;/strong&gt; totalmente &lt;strong&gt;gratis&lt;/strong&gt;, tan fácil como teclear tu producto a vender y esta mostrara información valiosa para saber los &lt;strong&gt;detalles demográficos&lt;/strong&gt; de las personas que comprarían tu producto. También nos presentaron su &lt;strong&gt;modelo&lt;/strong&gt;, el cual nos indica como los mexicanos &lt;strong&gt;somos malos para percibir la economía&lt;/strong&gt; del país.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/analiticotdp0.jpg&quot; alt=&quot;MiPotencial Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finalmente el &lt;strong&gt;científico social&lt;/strong&gt; Marco Galicia nos presento sus &lt;strong&gt;investigaciones&lt;/strong&gt; sobre los &lt;strong&gt;contratos millonarios&lt;/strong&gt; que sostiene &lt;strong&gt;el gobierno&lt;/strong&gt; con grandes &lt;strong&gt;empresas extranjeras&lt;/strong&gt; de tecnología. Estas son &lt;strong&gt;Oracle&lt;/strong&gt;, &lt;strong&gt;Microsoft&lt;/strong&gt;, &lt;strong&gt;HP&lt;/strong&gt;, &lt;strong&gt;EMC&lt;/strong&gt; e &lt;strong&gt;IBM&lt;/strong&gt;, las cuales desde los últimos &lt;strong&gt;5 años&lt;/strong&gt; sostienen &lt;strong&gt;657 contratos&lt;/strong&gt;, que significan &lt;strong&gt;17,080,794,654.60 pesos&lt;/strong&gt;, dejándonos como reflexión el &lt;strong&gt;poco apoyo a empresas nacionales&lt;/strong&gt; de TI y la &lt;strong&gt;dependencia a las extranjeras&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/images/marcotdp0.jpg&quot; alt=&quot;MarcoGalicia Image&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 26 Jan 2016 00:00:00 -0600</pubDate>
+        <link>http://blog.bonsaitech.net/meetup/TheDataPub-0/</link>
+        <guid isPermaLink="true">http://blog.bonsaitech.net/meetup/TheDataPub-0/</guid>
+        
+        
+        <category>meetup</category>
+        
+      </item>
+    
+  </channel>
+</rss>
