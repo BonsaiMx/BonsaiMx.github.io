@@ -1,7 +1,8 @@
 ---
-title: About
-layout: page
-permalink: "/about/"
+title: De que va este Blog y quien soy
+layout: post
+date: '2017-12-19 20:42:26'
+categories: personal
 ---
 
 Hola, bienvenido a mi blog "Bonsaitech".
