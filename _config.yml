@@ -1,42 +1,58 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+paginate: 100 # it will paginate after this number
+language: 'es-mx'
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
+
+# Website info
 title: Diego Plascencia Blog
 email: diegod5000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog de tecnología, ecommerce y más
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "bonsaitech.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: diegod5000
-github_username:  diegod5000
+cover: assets/images/blog-cover.jpg
+logo: False
+logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
+production_url: bonsaitech.net
+source_url: bonsaitech.net
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-admin
+# Social info
+navigation: True # show the navbar links
+subscribers: True # you need to connect an external service for this to work,
+# if 'True' the submit button is disabled for now, but you can change that
+# by editing `_includes/subscribe-form.html`
+twitter: diegod5000
+facebook: diegoplasc 
+linkedin: diegod5000
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Disqus
+disqus: True
+disqus_shortname: disqus_oJ8aBH5in2
+
+# Google Analytics
+google_analytics: UA-72773808-1 # replace with your GA tracking identifier
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title.html
+
+# gems and other configs
+plugins: [jekyll-paginate, jekyll-feed, jekyll-admin]
+exclude: [vendor]
+
+feed:
+  path: feed.xml
+
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml

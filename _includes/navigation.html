@@ -1,0 +1,16 @@
+<ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem">
+        <a href="{{site.baseurl}}">Inicio</a>
+    </li>
+    <li class="nav-about" role="menuitem">
+        <a href="{{site.baseurl}}about/">Acerca de</a>
+    </li>
+    {% if site.tags.size > 0 %}
+        {% for tag in site.tags %}
+            <li class="nav-section" role="menuitem">
+                <a href='{{ site.baseurl }}tag/{{ tag | first | downcase | replace: ' ', '-' }}/'>{{ tag | first | upcase }}</a>
+            </li>
+        {% endfor %}
+    {% endif %}
+</ul>
+                    
