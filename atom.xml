@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Blog de tecnología, ecommerce y más</description>
+    <link>
+    bonsaitech.net</link>
+    
+      
+      <item>
+        <title>De que va este blog y quien soy</title>
+        
+          <description>&lt;p&gt;Hola, bienvenido a mi blog “Bonsaitech”.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Dec 2017 20:42:26 -0600</pubDate>
+        <link>
+        bonsaitech.net/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html</link>
+        <guid isPermaLink="true">bonsaitech.net/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
