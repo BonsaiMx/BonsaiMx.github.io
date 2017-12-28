@@ -23,8 +23,8 @@
 
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="Blog de tecnología, ecommerce y más" />
-    <link rel="shortcut icon" href="bonsaitech.net/assets/images/favicon.png" type="image/png" />
-    <link rel="canonical" href="bonsaitech.net/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html" />
+    <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.png" type="image/png" />
+    <link rel="canonical" href="http://localhost:4000/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
@@ -32,15 +32,15 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="De que va este blog y quien soy" />
     <meta property="og:description" content="Blog de tecnología, ecommerce y más" />
-    <meta property="og:url" content="bonsaitech.net/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html" />
-    <meta property="og:image" content="bonsaitech.net/assets/images/cover_post1.jpg" />
+    <meta property="og:url" content="http://localhost:4000/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html" />
+    <meta property="og:image" content="http://localhost:4000/assets/images/cover_post1.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/diegoplasc" />
     <meta property="article:tag" content="Random" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="De que va este blog y quien soy" />
     <meta name="twitter:description" content="Blog de tecnología, ecommerce y más" />
-    <meta name="twitter:url" content="bonsaitech.net/" />
-    <meta name="twitter:image" content="bonsaitech.net/assets/images/cover_post1.jpg" />
+    <meta name="twitter:url" content="http://localhost:4000/" />
+    <meta name="twitter:image" content="http://localhost:4000/assets/images/cover_post1.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Diego Plascencia Blog" />
     <meta name="twitter:label2" content="Filed under" />
@@ -57,18 +57,18 @@
     "publisher": {
         "@type": "Organization",
         "name": "Diego Plascencia Blog",
-        "logo": "bonsaitech.net/false"
+        "logo": "http://localhost:4000/false"
     },
-    "url": "bonsaitech.net/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html",
+    "url": "http://localhost:4000/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html",
     "image": {
         "@type": "ImageObject",
-        "url": "bonsaitech.net/assets/images/cover_post1.jpg",
+        "url": "http://localhost:4000/assets/images/cover_post1.jpg",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "bonsaitech.net/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html"
+        "@id": "http://localhost:4000/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html"
     },
     "description": "Blog de tecnología, ecommerce y más"
 }
@@ -102,7 +102,7 @@ into the {body} of the default.hbs template -->
     <div class="site-nav-left">
         
             
-                <a class="site-nav-logo" href="bonsaitech.net">Diego Plascencia Blog</a>
+                <a class="site-nav-logo" href="http://localhost:4000">Diego Plascencia Blog</a>
             
         
         
@@ -145,7 +145,7 @@ into the {body} of the default.hbs template -->
             
         </div>
         
-            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+            <a class="subscribe-button" href="#subscribe">Suscribirse</a>
         
     </div>
 </nav>
@@ -213,16 +213,25 @@ into the {body} of the default.hbs template -->
                 <section class="subscribe-form">
                     <h3 class="subscribe-form-title">Suscribete a Diego Plascencia Blog</h3>
                     <p>Recibe directamente en tu correo mis ultimos tips, reviews y más contenido exclusivo</p>
-                    <form method="post" action="/subscribe/" class="">
-    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+                    <form method="post" action="https://bonsaitech.us17.list-manage.com/subscribe/post?u=928900386366b7997f4bc3fc0&amp;id=a7cf6a4ef0"
+    name="mc-embedded-subscribe-form" target="_blank" novalidate>
 
     <div class="form-group">
-        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
+        <input class="subscribe-email" type="text" name="FNAME" placeholder="Tu Nombre" />
+        <br>
+        <input class="subscribe-email" type="email" name="EMAIL" placeholder="tucorreo@ejemplo.com" />
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_928900386366b7997f4bc3fc0_a7cf6a4ef0" tabindex="-1" value="">
+        </div> <br>
+        <button class="" type="submit">
+            <span>Suscribirse</span>
+        </button>
     </div>
-    <button class="" type="submit" disabled><span>Subscribe</span></button>
-    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+
 </form>
 
+
+<!--End mc_embed_signup-->
                 </section>
             
 
@@ -258,7 +267,7 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = 'bonsaitech.net/';
+                            this.page.url = 'http://localhost:4000/';
                             this.page.identifier = 'Diego Plascencia Blog';
                         };
                         (function() {
@@ -300,7 +309,7 @@ into the {body} of the default.hbs template -->
 <!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
 <div class="floating-header">
     <div class="floating-header-logo">
-        <a href="bonsaitech.net/">
+        <a href="http://localhost:4000/">
             
                 <img src="/assets/images/favicon.png" alt="Diego Plascencia Blog icon" />
             
@@ -344,7 +353,7 @@ into the {body} of the default.hbs template -->
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="bonsaitech.net/">Diego Plascencia Blog</a> &copy; 2017</section>
+                <section class="copyright"><a href="http://localhost:4000/">Diego Plascencia Blog</a> &copy; 2017</section>
                 <nav class="site-footer-nav">
                     <a href="/">Ultimos Posts</a>
                     <a href="https://facebook.com/diegoplasc" target="_blank" rel="noopener">Facebook</a>
@@ -364,16 +373,25 @@ into the {body} of the default.hbs template -->
                 
                 <h1 class="subscribe-overlay-title">Suscribete a Diego Plascencia Blog</h1>
                 <p class="subscribe-overlay-description">Recibe directamente en tu correo mis ultimos tips, reviews y más contenido exclusivo</p>
-                <form method="post" action="/subscribe/" class="">
-    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+                <form method="post" action="https://bonsaitech.us17.list-manage.com/subscribe/post?u=928900386366b7997f4bc3fc0&amp;id=a7cf6a4ef0"
+    name="mc-embedded-subscribe-form" target="_blank" novalidate>
 
     <div class="form-group">
-        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
+        <input class="subscribe-email" type="text" name="FNAME" placeholder="Tu Nombre" />
+        <br>
+        <input class="subscribe-email" type="email" name="EMAIL" placeholder="tucorreo@ejemplo.com" />
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_928900386366b7997f4bc3fc0_a7cf6a4ef0" tabindex="-1" value="">
+        </div> <br>
+        <button class="" type="submit">
+            <span>Suscribirse</span>
+        </button>
     </div>
-    <button class="" type="submit" disabled><span>Subscribe</span></button>
-    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+
 </form>
 
+
+<!--End mc_embed_signup-->
             </div>
         </div>
     
