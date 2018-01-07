@@ -89,6 +89,16 @@
 </head>
 <body class="post-template">
 
+    <div id="fb-root"></div>
+    <script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.11&appId=374994132963443';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         <!-- default -->
@@ -263,24 +273,15 @@ into the {body} of the default.hbs template -->
                 <!-- /author  -->
             </footer>
 
-            <!-- If you use Disqus comments, just uncomment this block.
-            The only thing you need to change is "test-apkdzgmqhj" - which
-            should be replaced with your own Disqus site-id. -->
+            <div class="fb-like" data-share="true" data-width="450" data-show-faces="true">
+            </div>
+
             
                 <section class="post-full-comments">
-                    <div id="disqus_thread"></div>
-                    <script>
-                        var disqus_config = function () {
-                            this.page.url = 'bonsaitech.net/';
-                            this.page.identifier = 'Diego Plascencia Blog';
-                        };
-                        (function() {
-                            var d = document, s = d.createElement('script');
-                            s.src = 'https://disqus_oJ8aBH5in2.disqus.com/embed.js';
-                            s.setAttribute('data-timestamp', +new Date());
-                            (d.head || d.body).appendChild(s);
-                        })();
-                    </script>
+                    <div 
+                    class="fb-comments" 
+                    data-href="http://bonsaitech.net/random/2017/12/19/de-que-va-este-blog-y-quien-soy.html" 
+                    data-numposts="5"></div>
                 </section>
             
 

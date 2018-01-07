@@ -29,9 +29,9 @@ twitter: diegod5000
 facebook: diegoplasc 
 linkedin: diegod5000
 
-# Disqus
-disqus: True
-disqus_shortname: disqus_oJ8aBH5in2
+# FB comments and plugins
+comments: True
+fb_id: 374994132963443
 
 # Google Analytics
 google_analytics: UA-72773808-1 # replace with your GA tracking identifier
