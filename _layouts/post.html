@@ -93,9 +93,11 @@ into the {body} of the default.hbs template -->
             {% if site.comments or page.comments %}
                 <section class="post-full-comments">
                     <div 
+                    style="width: 80%; margin: auto"
                     class="fb-comments" 
                     data-href="http://{{ site.url }}{{page.url}}" 
-                    data-numposts="5"></div>
+                    data-numposts="5"
+                    data-width="100%"></div>
                 </section>
             {% endif %}
 
