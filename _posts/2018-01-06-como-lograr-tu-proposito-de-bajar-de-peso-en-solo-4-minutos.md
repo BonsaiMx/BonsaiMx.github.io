@@ -12,7 +12,7 @@ tags:
 - salud
 ---
 
-No, no es broma, no es estafa, y no entraste a uno de esos sitio con publicidad engañosa y noticias falsas. En esta primera entrada dentro de la [categoría de Salud](http://bonsaitech.net/tag/random/) te contaré un secreto de como controlar tu peso para lograr tu propósito de año, con un método Japonés, y con tan solo 4 minutos al día, sin trucos, sin pastillas, sin costos ocultos y sin tener que matarte 2 horas en el gimnasio todos los días.
+No, no es broma, no es estafa, y no entraste a uno de esos sitios con publicidad engañosa y noticias falsas. En esta primera entrada dentro de la [categoría de Salud](http://bonsaitech.net/tag/random/) te contaré un secreto de como controlar tu peso para lograr tu propósito de año, con un método Japonés, y con tan solo 4 minutos al día, sin trucos, sin pastillas, sin costos ocultos y sin tener que matarte 2 horas en el gimnasio todos los días.
 
 
 ### ¿Por que una sección de Salud?
@@ -39,7 +39,7 @@ Puedes hacer el ejercicio que quieras, con tu cuerpo, mancuernas, cuerdas, elipt
 * [Extensión de Cadera](https://www.youtube.com/watch?v=-e3LXbRrB_U)
 * [Abdominales](https://www.youtube.com/watch?v=GIrj9V4HchI)
 
-Recuerda hacerlos intensos, potentes y explosivos, en pocas palabras hazlos de una manera en la que pongas tu máximo esfuerzo, hazlos rápidamente, exagéralos si quieres, pero haz que tu ritmo cardiaco se eleve al máximo. También te recuerdo que puedes hacer otras actividades, por ejemplo si te gusta el ejercicio al aire libre y tienes algún parque cerca, puedes hacer sprints (correr a tu máxima velocidad) por 20 segundos y caminar o trotar por 10 segundos y repetir.
+Recuerda hacerlos intensos, potentes y explosivos, en pocas palabras hazlos de una manera en la que pongas tu máximo esfuerzo, hazlos rápidamente, exagéralos si quieres, pero haz que tu ritmo cardíaco se eleve al máximo. También te recuerdo que puedes hacer otras actividades, por ejemplo si te gusta el ejercicio al aire libre y tienes algún parque cerca, puedes hacer sprints (correr a tu máxima velocidad) por 20 segundos y caminar o trotar por 10 segundos y repetir.
 
 
 ### Recomendaciones Finales
