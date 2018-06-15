@@ -12,13 +12,13 @@ title: Diego Plascencia Blog
 email: diegod5000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog de tecnología, ecommerce y más
-url: "bonsaitech.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://bonsaitech.net" # the base hostname & protocol for your site, e.g. http://example.com
 cover: assets/images/blog-cover.jpg
 logo: False
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: bonsaitech.net
-source_url: bonsaitech.net
+production_url: http://bonsaitech.net
+source_url: http://bonsaitech.net
 
 # Social info
 navigation: True # show the navbar links
