@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>bonsaitech.net/</title>
+      <title>http://bonsaitech.net/</title>
    
-   <link>bonsaitech.net/</link>
+   <link>http://bonsaitech.net/</link>
    <description>Blog de tecnología, ecommerce y más</description>
    <language>es-mx</language>
    
@@ -15,28 +15,28 @@
    <description>
    <![CDATA[ Blog de tecnología, ecommerce y más ]]>
    </description>
-   <link>bonsaitech.net/</link>
+   <link>http://bonsaitech.net/</link>
    <image>
-   <url>bonsaitech.net/assets/images/favicon.png</url>
+   <url>http://bonsaitech.net/assets/images/favicon.png</url>
    <title>Diego Plascencia Blog</title>
-   <link>bonsaitech.net/</link>
+   <link>http://bonsaitech.net/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="bonsaitech.net/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="http://bonsaitech.net/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Como lograr tu propósito de bajar de peso en solo 4 minutos</title>
-	  <link>bonsaitech.net/salud/2018/01/06/como-lograr-tu-proposito-de-bajar-de-peso-en-solo-4-minutos.html</link>
+	  <link>http://bonsaitech.net/salud/2018/01/06/como-lograr-tu-proposito-de-bajar-de-peso-en-solo-4-minutos.html</link>
 		
 				
 						<author>Diego Plascencia</author>
 				
 		
 	  <pubDate>2018-01-06T00:14:14-06:00</pubDate>
-	  <guid>bonsaitech.net/salud/2018/01/06/como-lograr-tu-proposito-de-bajar-de-peso-en-solo-4-minutos.html</guid>
+	  <guid>http://bonsaitech.net/salud/2018/01/06/como-lograr-tu-proposito-de-bajar-de-peso-en-solo-4-minutos.html</guid>
 	  <description><![CDATA[
 	     <p>No, no es broma, no es estafa, y no entraste a uno de esos sitios con publicidad engañosa y noticias falsas. En esta primera entrada dentro de la <a href="http://bonsaitech.net/tag/random/">categoría de Salud</a> te contaré un secreto de como controlar tu peso para lograr tu propósito de año, con un método Japonés, y con tan solo 4 minutos al día, sin trucos, sin pastillas, sin costos ocultos y sin tener que matarte 2 horas en el gimnasio todos los días.</p>
 
