@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>bonsaitech.net/</title>
+   
+   <link>bonsaitech.net/</link>
+   <description>Blog de tecnología, ecommerce y más</description>
+   <language>es-mx</language>
+   
+   <title>
+   <![CDATA[ Diego Plascencia Blog ]]>
+   </title>
+   <description>
+   <![CDATA[ Blog de tecnología, ecommerce y más ]]>
+   </description>
+   <link>bonsaitech.net/</link>
+   <image>
+   <url>bonsaitech.net/assets/images/favicon.png</url>
+   <title>Diego Plascencia Blog</title>
+   <link>bonsaitech.net/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="bonsaitech.net/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>20 Herramientas Secretas de Shopify Parte II: No escribas, escanea</title>
+	  <link>bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-ii-no-escribas-escanea.html</link>
+		
+				
+						<author>Diego Plascencia</author>
+				
+		
+	  <pubDate>2018-01-06T00:14:20-06:00</pubDate>
+	  <guid>bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-ii-no-escribas-escanea.html</guid>
+	  <description><![CDATA[
+	     <p>Continuamos con las herramientas de shopify, esta vez te voy a mostrar cómo sacarle provecho a dos herramientas que son sencillas pero que te harán ahorrar mucho tiempo y dinero.</p>
+
+<p>Estoy hablando de los códigos QR y de barras, estos dos amigos nos sirven para muchas cosas, más allá del uso común para identificar nuestros productos si tienes tienda física, a continuación te voy a decir que son, te voy a mostrar cómo usarlos y en qué usarlos.</p>
+
+<h3 id="generador-de-códigos-qr">Generador de Códigos QR</h3>
+
+<p><a href="https://en.wikipedia.org/wiki/QR_code">El código QR</a> es ese código cuadrado que has visto en tarjetas de negocios, anuncios o boletos electrónicos. Este código QR (Quick Response code) es una matriz (cuadrícula) de bloques blancos y negros, los cuales contienen datos alfanuméricos como hipervínculos, números telefónicos o claves de acceso de Wi-Fi. Tiene un algoritmo de corrección que permite al lector corregir la información para que no llegue a leerse de forma incorrecta, es por esto que en algunos códigos puede haber logos o imágenes en la parte de enmedio, por que el corrector elimina estas interferencias.</p>
+
+<p>En shopify tenemos una <a href="https://www.shopify.com/pos/qr-code-generator">herramienta</a> que nos permitirá generar nuestros códigos, por ejemplo, yo voy a crear un código que contendrá un enlace a <a href="http://atoms.mx/">Atoms</a>, solo ingreso mi correo, el tipo de datos (en este caso URL de sitio), y finalmente el dato (<a href="http://atoms.mx/">http://atoms.mx/</a>)</p>
+
+<p><img src="/assets/images/generador-qr-shopify-ejemplo-atoms.png" alt="" /></p>
+
+<p>Y listo, el código es enviado a nuestro correo:</p>
+
+<p><img src="/assets/images/generador-de-codigos-qr-shopify-email.png" alt="" /></p>
+
+<p>Escanealo con tu celular y observa lo que sucede.</p>
+
+<p><img src="/assets/images/generador-codigos-qr-shopify-ejemplo-descarga.png" alt="" /></p>
+
+<p>Ahora, ¿Que podemos hacer con esto? pues eso depende, si tenemos un comercio físico, podemos utilizarlo para redirigir a tus clientes a visitar el producto en línea, por si les interesó pero desean comprarlo después o mostrarselo a alguien.</p>
+
+<p><img src="/assets/images/escaneo-de-codigo-qr-producto.jpg" alt="" /></p>
+
+<p>Puedes usarlo internamente, puedes colocar este código en tu mercancia para darle un seguimiento, integrarlo en tu ERP o para identificar su contenido. Puedes utilizarlo en tus tarjetas de presentación, en cupones, banners, promocionales, anuncios, VR, las posibilidades son ilimitadas.</p>
+
+<h3 id="generador-de-código-de-barras">Generador de Código de Barras.</h3>
+
+<p>Por otro lado está el <a href="https://www.shopify.com.mx/herramientas/generador-codigo-barras">generador del clásico código de barras</a>. Este es más común y seguramente lo has visto en los supermercados. Estas líneas representan normalmente números, existen diferentes tipos y estándares de códigos de barras, los más comunes son el EAN-13, EAN-8, UPC-A y el UPC-E. Cada dígito o carácter está conformado por 7 líneas, es decir si queremos representar el uno el escáner debe detectar 2 lineas blancas, 2 negras, 2 blancas y una negra.</p>
+
+<p><img src="/assets/images/codigo-de-barras-en-paqueteria.jpg" alt="" /></p>
+
+<p>Para crear nuestro código de barras solo tenemos que ingresar a la herramienta de shopify, ingresar nuestro correo electrónico, y el dato que contendrá nuestro código de barras, por ejemplo el EAN/UPC o identificador de nuestro producto, mercancía o lo que queramos.</p>
+
+<p><img src="/assets/images/generador-de-codigo-de-barras-shopify-datos.png" alt="" /></p>
+
+<p>Finalmente recibimos el código en nuestro correo, y posteriormente lo descargamos e imprimimos</p>
+
+<p><img src="/assets/images/generador-de-codigo-de-barras-shopify-email.png" alt="" /></p>
+
+<p><img src="/assets/images/generador-de-codigo-de-barras-shopify-ejemplo-descarga.png" alt="" /></p>
+
+<p>Este código de barras es más común su uso para identificar productos y mercancía, también es recomendable, rápido y barato usarlo con un escáner infrarrojo, estos escáneres funcionan como un teclado, es decir en el momento en que termine de leer el código, este es “tecleado” en tu computadora, POS, smartphone o donde lo tengas conectado.</p>
+
+<p>Hasta aquí llega esta segunda parte de las herramientas. No te pierdas la próxima parte, por que te daré herramientas para poder darle más profesionalidad a tu comercio electrónico, esto le dará más prestigio y tus clientes confiarán más en ti.</p>
+
+<p>No olvides que si ya tienes tu comercio electrónico y tienes dudas sobre cómo integrarlo con tu comercio físico o si quieres asesoría para iniciarlo con shopify, en Atoms estamos para ayudarte, solo <a href="mailto:diego@atoms.mx">escríbeme un correo</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>20 Herramientas Secretas de Shopify (Parte I): Comienza por el comienzo</title>
+	  <link>bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-i-comienza-por-el-comienzo.html</link>
+		
+				
+						<author>Diego Plascencia</author>
+				
+		
+	  <pubDate>2018-01-06T00:14:00-06:00</pubDate>
+	  <guid>bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-i-comienza-por-el-comienzo.html</guid>
+	  <description><![CDATA[
+	     <p>Las 20 herramientas de shopify que te harán ahorrar tiempo y dinero, son simples, son fáciles de usar y puedes potenciar tu tienda con estas. En esta entrada te voy a decir como sacarle provecho a las primeras 3 herramientas, para que puedas iniciar tu e-Commerce.</p>
+
+<p>Seguramente alguna vez llegaste a utilizar una de ellas, estas herramientas “secretas” de shopify son de gran utilidad para tu e-Commerce, estas herramientas te pueden ayudar en cuestiones desde diseño, hasta administración de la tienda y manejo de productos.</p>
+
+<h3 id="generador-de-nombres">Generador de Nombres</h3>
+
+<p>Lo primero que debemos tener para comenzar nuestro e-commerce es un nombre, y si estamos hablando de nombres, en el mundo de la tecnología y el internet un nombre también significa tener un dominio, es decir la dirección con la que tus clientes podrán ir a tu comercio, una herramienta que nos facilita el escoger un nombre y encontrar un dominio es el <a href="https://www.shopify.com/tools/business-name-generator">Generador de Nombres de Shopify</a>.</p>
+
+<p><img src="/assets/images/generador-de-nombres-shopify-ejemplo-the-veggie-dog.png" alt="" /></p>
+
+<p>Esta herramienta es muy sencilla, solo tienes que ingresar las palabras clave de tu negocio y en instantes tendrás nombres alternativos y dominios, para este ejemplo quiero poner un e-Commerce de comida vegetariana para perros, un buen nombre podría ser “The Veggie Dog”.</p>
+
+<p><img src="/assets/images/generedaor-de-nombres-shopify-ejemplo-listado-the-veggie-dog.png" alt="" /></p>
+
+<p>Por suerte “theveggiedog.com” esta disponible, pero me gusta más el nombre que me sugiere la herramienta “The Veggie Doggy” y el dominio “.com” está disponible, ahora solo daré click y Shopify me ayudara a crear mi e-Commerce con mi nuevo nombre y domino.</p>
+
+<h3 id="generador-de-logos">Generador de Logos</h3>
+
+<p>Ya tenemos un nombre, ahora debemos tener un logo, para que nuestros clientes nos recuerden más fácilmente. <a href="https://www.shopify.com/tools/logo-maker">El generador de logos</a> es sencillo de usar, solo tienes que seleccionar un icono e introducir el nombre de tu tienda, seleccionar los colores que vaya más acorde a tu giro, y listo.</p>
+
+<p>A veces lo más simple es lo mejor, pero si lo tuyo es el detalle y te gustaría tener un logo más personalizado no olvides que en <a href="http://atoms.mx/">Atoms</a> contamos con el mejor equipo de artistas que le darán a tu marca o tienda el logo perfecto.</p>
+
+<p><img src="/assets/images/generador-de-logo-shopify-ejemplo-the-veggie-doggy.png" alt="" /></p>
+
+<h3 id="generador-de-slogan">Generador de Slogan</h3>
+
+<p>Por último necesitamos un slogan, esa frase que describe nuestro e-Commerce, nuestro mantra, algo pegajoso que atrae clientes. Es algo difícil lograr encontrar un buen slogan, probablemente necesites múltiples sesiones de lluvia de ideas y algo de inspiración para encontrar tu slogan, pero gracias a la herramienta de <a href="https://www.shopify.com/tools/slogan-maker">Generador de Slogan</a> de shopify podemos conseguir un buen slogan a partir de una palabra.</p>
+
+<p>Para nuestra tienda “The Veggie Doggy” voy a utilizar la palabra “Veggie Doggy” ya que es el nombre y propósito de nuestro e-Commerce.</p>
+
+<p><a href="/assets/images/generador-de-slogan-shopify-ejemplo-veggi-doggy.png"></a></p>
+
+<p>Finalmente, en la primer página encontré el slogan perfecto para nuestra tienda de comida vegetariana para perros: “It Must Be Veggie Doggy”.</p>
+
+<p><img src="/assets/images/generador-de-slogan-shopify-listado-veggie-doggy.png" alt="" /></p>
+
+<p>Ya tenemos nuestro nombre, logo y slogan, estamos listos para comenzar nuestro e-Commerce. Eso es todo para esta primera parte, para la siguiente entrada hablaré sobre las herramientas de shopify que nos ayudarán a administrar nuestros productos e identificarlos con lectores ópticos, muy útil si tenemos una tienda física y Shopify.</p>
+
+<p>No olvides que si necesitas hacer crecer tu e-Commerce, requieres de consultoría, asesoría o una marca más personalizada en <a href="http://atoms.mx/">Atoms</a> te podemos ayudar.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
