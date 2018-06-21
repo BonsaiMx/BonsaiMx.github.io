@@ -36,15 +36,91 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>20 Herramientas Secretas de Shopify Parte II: No escribas, escanea</title>
-	  <link>http://bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-ii-no-escribas-escanea.html</link>
+	  <title>20 Herramientas Secretas de Shopify Parte III: Ante todo, profesionalidad</title>
+	  <link>http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad.html</link>
 		
 				
 						<author>Diego Plascencia</author>
 				
 		
-	  <pubDate>2018-01-06T00:14:20-06:00</pubDate>
-	  <guid>http://bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-ii-no-escribas-escanea.html</guid>
+	  <pubDate>2018-06-20T23:12:00-05:00</pubDate>
+	  <guid>http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad.html</guid>
+	  <description><![CDATA[
+	     <p><strong>La calidad y la profesionalidad</strong> son dos importantes cuestiones que van de la mano, ambas son necesarias para aumentar la <strong>confianza</strong> que tienen tus <strong>potenciales clientes</strong> hacia tu e-commerce, y tu marca.</p>
+
+<p>En esta entrega te voy a enseñar las siguientes 4 herramientas que ofrece Shopify que te ayudarán a profesionalizar tu e-commerce.</p>
+
+<h3 id="plantilla-de-cupones-de-regalo">Plantilla de Cupones de Regalo</h3>
+<p>Algo que no puede faltar en tu e-commerce para potencializar la <strong>fidelización</strong> de tus clientes son los <strong>certificados o cupones de regalo</strong>, probablemente tengas uno de ellos en tu cartera o correo electrónico, estos también son conocidos como “monederos electrónicos”, son normalmente tarjetas o códigos que tienen un valor monetario dentro de una tienda física o e-commerce.</p>
+
+<p>Pero no solo son los certificados en sí, si no la forma en la que los presentas lo que le dan esa <strong>profesionalidad</strong>. Para ello tenemos la <a href="https://www.shopify.com.mx/herramientas/generador-plantilla-cupones-regalo">Plantilla de Cupones de Regalo de Shopify</a>.</p>
+
+<p>A continuación voy a crear un certificado para nuestra tienda “The Veggie Doggy”, un certificado de regalo de $200 para fulano, que expira el 30 de Junio del 2018 y solo es válido en productos participantes:</p>
+
+<p><img src="/assets/images/cupon-de-regalo-informacion-remitente-the-veggie-doggy.png" alt="" /></p>
+
+<p><img src="/assets/images/cupon-de-regalo-descripcion-the-veggie-doggy.png" alt="" /></p>
+
+<p>Ahora solo le doy click a “Crear certificados de regalo” y listo. El certificado para el Sr. Fulano será enviado a mi correo, ahora puedo descargarlo en PDF y enviarselo a nuestro cliente para que pueda obtener el descuento en su próxima compra.</p>
+
+<p><img src="/assets/images/cupon-de-regalo-the-veggie-doggy.png" alt="" /></p>
+
+<h3 id="plantilla-de-Órdenes-de-compra">Plantilla de Órdenes de Compra</h3>
+
+<p>Hay que conservar la <strong>profesionalidad</strong> en todos los sentidos, porque nuestro negocio no se fortalece solo con las <strong>relaciones</strong> y <strong>fidelización</strong> de nuestros clientes, sino también con las <strong>relaciones</strong> y <strong>confianza</strong> de nuestros <strong>proveedores</strong>.</p>
+
+<p>Por ello debemos conservar nuestra <strong>imagen profesional</strong> con la <a href="https://www.shopify.com.mx/herramientas/plantilla-orden-de-compra">Plantilla de Orden de Compra de Shopify</a>.</p>
+
+<p>Vamos a utilizar esta herramienta para generar una orden de compra de nuestra materia prima, la fórmula especial para la producción de nuestros productos veganos para perros, solo debemos ingresar la información del negocio, la información de nuestro proveedor y de los productos que estamos comprando.</p>
+
+<p><img src="/assets/images/plantilla-order-de-compra-shopify-informacion-negocio-the-veggie-doggy.png" alt="" />
+<img src="/assets/images/plantilla-order-de-compra-shopify-informacion-proveedor-the-veggie-doggy.png" alt="" />
+<img src="/assets/images/plantilla-order-de-compra-shopify-informacion-articulos-the-veggie-doggy.png" alt="" /></p>
+
+<p>Damos clic en “enviar”, y el link para descargar nuestra orden de compra se enviará a nuestro correo para poder descargar en PDF.</p>
+
+<p><img src="/assets/images/plantilla-order-de-compra-shopify-the-veggie-doggy.png" alt="" /></p>
+
+<h3 id="plantilla-de-etiquetas-de-envío">Plantilla de Etiquetas de Envío</h3>
+
+<p>Un papel muy sencillo y simple, aunque igual de importante son las <strong>etiquetas de envío</strong>, son necesarias para darle ese toque profesional a nuestros <strong>paquetes de envío</strong>, normalmente la mayoría de los proveedores de servicios de paquetería generan estas <strong>etiquetas</strong>, pero nunca está de más una <strong>etiqueta profesional propia</strong>.</p>
+
+<p>Con la <a href="https://www.shopify.com.mx/herramientas/plantilla-etiqueta-de-envio">Plantilla de Etiquetas de Envío de Shopify</a> es muy sencillo crear nuestra etiqueta de envío para “The Veggie Doggy”, solo debemos ingresar los datos del negocio, del destinatario y la información del paquete (número de guía y peso).</p>
+
+<p><img src="/assets/images/plantilla-etiqueta-de-envio-shopify-informacion-remitente-the-veggie-doggy.png" alt="" /></p>
+
+<p><img src="/assets/images/plantilla-etiqueta-de-envio-shopify-informacion-envio-the-veggie-doggy.png" alt="" /></p>
+
+<p>Finalmente damos clic a “Crear etiqueta de envío” y estará en nuestro correo, lista para descargar, imprimir y pegar en nuestro paquete.</p>
+
+<p><img src="/assets/images/plantilla-etiqueta-de-envio-shopify-doggy.png" alt="" /></p>
+
+<h3 id="plantilla-de-conocimiento-de-embarque">Plantilla de Conocimiento de Embarque</h3>
+
+<p>Si tu e-commerce hace <strong>envios internacionales</strong>, la Plantilla de Conocimiento de Embarque te vendrá bien, al igual que las anteriores herramientas solo es cuestión de llenar unos datos y la plantilla será enviada a tu correo electrónico:</p>
+
+<p><img src="/assets/images/plantilla-conocimiento-de-embarque-shopify-informacion-puertos-the-veggie-doggy.png" alt="" />
+<img src="/assets/images/plantilla-conocimiento-de-embarque-shopify-informacion-articulos-the-veggie-doggy.png" alt="" />
+<img src="/assets/images/plantilla-conocimiento-de-embarque-shopify-the-veggie-doggy-a.png" alt="" />
+<img src="/assets/images/plantilla-conocimiento-de-embarque-shopify-the-veggie-doggy-b.png" alt="" /></p>
+
+<p>Eso es todo para esta entrega, espera la siguiente parte, estas herramientas se hacen <strong>cada vez más interesantes</strong>, en el próximo artículo te contaré cómo puedes <strong>olvidarte de lo tedioso de la cuestión legal</strong> de tener presencia en internet, <strong>ahorra tiempo</strong> y deja que las herramientas de <strong>shopify lo hagan por ti</strong>.</p>
+
+<p>Recuerda que si tienes dudas puedes dejarme tu comentario aquí abajo, o si lo prefieres puedes <a href="https://www.facebook.com/atomsmx/">contactarnos por Facebook</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>20 Herramientas Secretas de Shopify Parte II: No escribas, escanea</title>
+	  <link>http://bonsaitech.net/ecommerce/2018/06/14/20-herramientas-secretas-de-shopify-parte-ii-no-escribas-escanea.html</link>
+		
+				
+						<author>Diego Plascencia</author>
+				
+		
+	  <pubDate>2018-06-14T20:14:20-05:00</pubDate>
+	  <guid>http://bonsaitech.net/ecommerce/2018/06/14/20-herramientas-secretas-de-shopify-parte-ii-no-escribas-escanea.html</guid>
 	  <description><![CDATA[
 	     <p>Continuamos con las herramientas de shopify, esta vez te voy a mostrar cómo sacarle provecho a dos herramientas que son sencillas pero que te harán ahorrar mucho tiempo y dinero.</p>
 
@@ -98,6 +174,60 @@
 	</item>
 
 	<item>
+	  <title>20 Herramientas Secretas de Shopify (Parte I): Comienza por el comienzo</title>
+	  <link>http://bonsaitech.net/ecommerce/2018/06/14/20-herramientas-secretas-de-shopify-parte-i-comienza-por-el-comienzo.html</link>
+		
+				
+						<author>Diego Plascencia</author>
+				
+		
+	  <pubDate>2018-06-14T18:14:00-05:00</pubDate>
+	  <guid>http://bonsaitech.net/ecommerce/2018/06/14/20-herramientas-secretas-de-shopify-parte-i-comienza-por-el-comienzo.html</guid>
+	  <description><![CDATA[
+	     <p>Las 20 herramientas de shopify que te harán ahorrar tiempo y dinero, son simples, son fáciles de usar y puedes potenciar tu tienda con estas. En esta entrada te voy a decir como sacarle provecho a las primeras 3 herramientas, para que puedas iniciar tu e-Commerce.</p>
+
+<p>Seguramente alguna vez llegaste a utilizar una de ellas, estas herramientas “secretas” de shopify son de gran utilidad para tu e-Commerce, estas herramientas te pueden ayudar en cuestiones desde diseño, hasta administración de la tienda y manejo de productos.</p>
+
+<h3 id="generador-de-nombres">Generador de Nombres</h3>
+
+<p>Lo primero que debemos tener para comenzar nuestro e-commerce es un nombre, y si estamos hablando de nombres, en el mundo de la tecnología y el internet un nombre también significa tener un dominio, es decir la dirección con la que tus clientes podrán ir a tu comercio, una herramienta que nos facilita el escoger un nombre y encontrar un dominio es el <a href="https://www.shopify.com/tools/business-name-generator">Generador de Nombres de Shopify</a>.</p>
+
+<p><img src="/assets/images/generador-de-nombres-shopify-ejemplo-the-veggie-dog.png" alt="" /></p>
+
+<p>Esta herramienta es muy sencilla, solo tienes que ingresar las palabras clave de tu negocio y en instantes tendrás nombres alternativos y dominios, para este ejemplo quiero poner un e-Commerce de comida vegetariana para perros, un buen nombre podría ser “The Veggie Dog”.</p>
+
+<p><img src="/assets/images/generedaor-de-nombres-shopify-ejemplo-listado-the-veggie-dog.png" alt="" /></p>
+
+<p>Por suerte “theveggiedog.com” esta disponible, pero me gusta más el nombre que me sugiere la herramienta “The Veggie Doggy” y el dominio “.com” está disponible, ahora solo daré click y Shopify me ayudara a crear mi e-Commerce con mi nuevo nombre y domino.</p>
+
+<h3 id="generador-de-logos">Generador de Logos</h3>
+
+<p>Ya tenemos un nombre, ahora debemos tener un logo, para que nuestros clientes nos recuerden más fácilmente. <a href="https://www.shopify.com/tools/logo-maker">El generador de logos</a> es sencillo de usar, solo tienes que seleccionar un icono e introducir el nombre de tu tienda, seleccionar los colores que vaya más acorde a tu giro, y listo.</p>
+
+<p>A veces lo más simple es lo mejor, pero si lo tuyo es el detalle y te gustaría tener un logo más personalizado no olvides que en <a href="http://atoms.mx/">Atoms</a> contamos con el mejor equipo de artistas que le darán a tu marca o tienda el logo perfecto.</p>
+
+<p><img src="/assets/images/generador-de-logo-shopify-ejemplo-the-veggie-doggy.png" alt="" /></p>
+
+<h3 id="generador-de-slogan">Generador de Slogan</h3>
+
+<p>Por último necesitamos un slogan, esa frase que describe nuestro e-Commerce, nuestro mantra, algo pegajoso que atrae clientes. Es algo difícil lograr encontrar un buen slogan, probablemente necesites múltiples sesiones de lluvia de ideas y algo de inspiración para encontrar tu slogan, pero gracias a la herramienta de <a href="https://www.shopify.com/tools/slogan-maker">Generador de Slogan</a> de shopify podemos conseguir un buen slogan a partir de una palabra.</p>
+
+<p>Para nuestra tienda “The Veggie Doggy” voy a utilizar la palabra “Veggie Doggy” ya que es el nombre y propósito de nuestro e-Commerce.</p>
+
+<p><a href="/assets/images/generador-de-slogan-shopify-ejemplo-veggi-doggy.png"></a></p>
+
+<p>Finalmente, en la primer página encontré el slogan perfecto para nuestra tienda de comida vegetariana para perros: “It Must Be Veggie Doggy”.</p>
+
+<p><img src="/assets/images/generador-de-slogan-shopify-listado-veggie-doggy.png" alt="" /></p>
+
+<p>Ya tenemos nuestro nombre, logo y slogan, estamos listos para comenzar nuestro e-Commerce. Eso es todo para esta primera parte, para la siguiente entrada hablaré sobre las herramientas de shopify que nos ayudarán a administrar nuestros productos e identificarlos con lectores ópticos, muy útil si tenemos una tienda física y Shopify.</p>
+
+<p>No olvides que si necesitas hacer crecer tu e-Commerce, requieres de consultoría, asesoría o una marca más personalizada en <a href="http://atoms.mx/">Atoms</a> te podemos ayudar.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Como lograr tu propósito de bajar de peso en solo 4 minutos</title>
 	  <link>http://bonsaitech.net/salud/2018/01/06/como-lograr-tu-proposito-de-bajar-de-peso-en-solo-4-minutos.html</link>
 		
@@ -146,60 +276,6 @@
 </ul>
 
 <p><img src="/assets/images/plato-comer.png" alt="plato del buen comer" /></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>20 Herramientas Secretas de Shopify (Parte I): Comienza por el comienzo</title>
-	  <link>http://bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-i-comienza-por-el-comienzo.html</link>
-		
-				
-						<author>Diego Plascencia</author>
-				
-		
-	  <pubDate>2018-01-06T00:14:00-06:00</pubDate>
-	  <guid>http://bonsaitech.net/ecommerce/2018/01/06/20-herramientas-secretas-de-shopify-parte-i-comienza-por-el-comienzo.html</guid>
-	  <description><![CDATA[
-	     <p>Las 20 herramientas de shopify que te harán ahorrar tiempo y dinero, son simples, son fáciles de usar y puedes potenciar tu tienda con estas. En esta entrada te voy a decir como sacarle provecho a las primeras 3 herramientas, para que puedas iniciar tu e-Commerce.</p>
-
-<p>Seguramente alguna vez llegaste a utilizar una de ellas, estas herramientas “secretas” de shopify son de gran utilidad para tu e-Commerce, estas herramientas te pueden ayudar en cuestiones desde diseño, hasta administración de la tienda y manejo de productos.</p>
-
-<h3 id="generador-de-nombres">Generador de Nombres</h3>
-
-<p>Lo primero que debemos tener para comenzar nuestro e-commerce es un nombre, y si estamos hablando de nombres, en el mundo de la tecnología y el internet un nombre también significa tener un dominio, es decir la dirección con la que tus clientes podrán ir a tu comercio, una herramienta que nos facilita el escoger un nombre y encontrar un dominio es el <a href="https://www.shopify.com/tools/business-name-generator">Generador de Nombres de Shopify</a>.</p>
-
-<p><img src="/assets/images/generador-de-nombres-shopify-ejemplo-the-veggie-dog.png" alt="" /></p>
-
-<p>Esta herramienta es muy sencilla, solo tienes que ingresar las palabras clave de tu negocio y en instantes tendrás nombres alternativos y dominios, para este ejemplo quiero poner un e-Commerce de comida vegetariana para perros, un buen nombre podría ser “The Veggie Dog”.</p>
-
-<p><img src="/assets/images/generedaor-de-nombres-shopify-ejemplo-listado-the-veggie-dog.png" alt="" /></p>
-
-<p>Por suerte “theveggiedog.com” esta disponible, pero me gusta más el nombre que me sugiere la herramienta “The Veggie Doggy” y el dominio “.com” está disponible, ahora solo daré click y Shopify me ayudara a crear mi e-Commerce con mi nuevo nombre y domino.</p>
-
-<h3 id="generador-de-logos">Generador de Logos</h3>
-
-<p>Ya tenemos un nombre, ahora debemos tener un logo, para que nuestros clientes nos recuerden más fácilmente. <a href="https://www.shopify.com/tools/logo-maker">El generador de logos</a> es sencillo de usar, solo tienes que seleccionar un icono e introducir el nombre de tu tienda, seleccionar los colores que vaya más acorde a tu giro, y listo.</p>
-
-<p>A veces lo más simple es lo mejor, pero si lo tuyo es el detalle y te gustaría tener un logo más personalizado no olvides que en <a href="http://atoms.mx/">Atoms</a> contamos con el mejor equipo de artistas que le darán a tu marca o tienda el logo perfecto.</p>
-
-<p><img src="/assets/images/generador-de-logo-shopify-ejemplo-the-veggie-doggy.png" alt="" /></p>
-
-<h3 id="generador-de-slogan">Generador de Slogan</h3>
-
-<p>Por último necesitamos un slogan, esa frase que describe nuestro e-Commerce, nuestro mantra, algo pegajoso que atrae clientes. Es algo difícil lograr encontrar un buen slogan, probablemente necesites múltiples sesiones de lluvia de ideas y algo de inspiración para encontrar tu slogan, pero gracias a la herramienta de <a href="https://www.shopify.com/tools/slogan-maker">Generador de Slogan</a> de shopify podemos conseguir un buen slogan a partir de una palabra.</p>
-
-<p>Para nuestra tienda “The Veggie Doggy” voy a utilizar la palabra “Veggie Doggy” ya que es el nombre y propósito de nuestro e-Commerce.</p>
-
-<p><a href="/assets/images/generador-de-slogan-shopify-ejemplo-veggi-doggy.png"></a></p>
-
-<p>Finalmente, en la primer página encontré el slogan perfecto para nuestra tienda de comida vegetariana para perros: “It Must Be Veggie Doggy”.</p>
-
-<p><img src="/assets/images/generador-de-slogan-shopify-listado-veggie-doggy.png" alt="" /></p>
-
-<p>Ya tenemos nuestro nombre, logo y slogan, estamos listos para comenzar nuestro e-Commerce. Eso es todo para esta primera parte, para la siguiente entrada hablaré sobre las herramientas de shopify que nos ayudarán a administrar nuestros productos e identificarlos con lectores ópticos, muy útil si tenemos una tienda física y Shopify.</p>
-
-<p>No olvides que si necesitas hacer crecer tu e-Commerce, requieres de consultoría, asesoría o una marca más personalizada en <a href="http://atoms.mx/">Atoms</a> te podemos ayudar.</p>
 
 	  ]]></description>
 	</item>
