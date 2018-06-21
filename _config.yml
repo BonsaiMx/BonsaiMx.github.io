@@ -17,8 +17,8 @@ cover: assets/images/blog-cover.jpg
 logo: False
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: http://bonsaitech.net
-source_url: http://bonsaitech.net
+production_url: http://bonsaitech.net/
+source_url: http://bonsaitech.net/
 
 # Social info
 navigation: True # show the navbar links
@@ -26,7 +26,7 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: diegod5000
-facebook: diegoplasc 
+facebook: diegocommerce 
 linkedin: diegod5000
 
 # FB comments and plugins

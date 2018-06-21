@@ -3,7 +3,7 @@ title: '20 Herramientas Secretas de Shopify (Parte I): Comienza por el comienzo'
 layout: post
 cover: assets/images/shopify-table-decor_925x.jpg
 navigation: true
-date: '2018-01-06 00:14:00'
+date: '2018-06-14 18:14:00'
 categories: ecommerce
 class: post-template
 subclass: post

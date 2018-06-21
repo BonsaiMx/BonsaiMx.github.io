@@ -3,7 +3,7 @@ title: '20 Herramientas Secretas de Shopify Parte II: No escribas, escanea'
 layout: post
 cover: assets/images/cell-phone-camera-qr_925x.jpg
 navigation: true
-date: '2018-01-06 00:14:20'
+date: '2018-06-14 20:14:20'
 categories: ecommerce
 class: post-template
 subclass: post
