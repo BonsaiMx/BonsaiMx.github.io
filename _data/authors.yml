@@ -4,9 +4,19 @@ diego:
   location: México, Ciudad de México
   url_full: http://bonsaitech.net/
   url: bonsaitech.net
-  bio: Desarrollador de Software.
+  bio: Consultor e-commerce y Desarrollador de Software.
   picture: assets/images/profile_diego.jpeg
   twitter: diegod5000
   facebook: diegoplasc 
   linkedin: diegod5000
+  cover: False
+leonel:
+  username: leonel
+  name: Leonel Hernández
+  location: Inglaterra, Liverpool
+  url_full: http://bonsaitech.net/
+  url: bonsaitech.net
+  bio: MSc in Microelectronics.
+  picture: assets/images/profile_leonel.jpg
+  facebook: profile.php?id=100004208913152 
   cover: False
