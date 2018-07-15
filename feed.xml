@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://bonsaitech.net/feed.xml" rel="self" type="application/atom+xml" /><link href="http://bonsaitech.net/" rel="alternate" type="text/html" /><updated>2018-06-21T00:08:06-05:00</updated><id>http://bonsaitech.net/</id><title type="html">Diego Plascencia Blog</title><subtitle>Blog de tecnología, ecommerce y más</subtitle><entry><title type="html">20 Herramientas Secretas de Shopify Parte III: Ante todo, profesionalidad</title><link href="http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad.html" rel="alternate" type="text/html" title="20 Herramientas Secretas de Shopify Parte III: Ante todo, profesionalidad" /><published>2018-06-20T23:12:00-05:00</published><updated>2018-06-20T23:12:00-05:00</updated><id>http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad</id><content type="html" xml:base="http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad.html">&lt;p&gt;&lt;strong&gt;La calidad y la profesionalidad&lt;/strong&gt; son dos importantes cuestiones que van de la mano, ambas son necesarias para aumentar la &lt;strong&gt;confianza&lt;/strong&gt; que tienen tus &lt;strong&gt;potenciales clientes&lt;/strong&gt; hacia tu e-commerce, y tu marca.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://bonsaitech.net/feed.xml" rel="self" type="application/atom+xml" /><link href="http://bonsaitech.net/" rel="alternate" type="text/html" /><updated>2018-07-15T14:47:20-05:00</updated><id>http://bonsaitech.net/</id><title type="html">Diego Plascencia Blog</title><subtitle>Blog de tecnología, ecommerce y más</subtitle><entry><title type="html">¿Cuanta energía solo por moverse?</title><link href="http://bonsaitech.net/salud/2018/07/15/cuanta-energia-solo-por-moverse.html" rel="alternate" type="text/html" title="¿Cuanta energía solo por moverse?" /><published>2018-07-15T14:15:20-05:00</published><updated>2018-07-15T14:15:20-05:00</updated><id>http://bonsaitech.net/salud/2018/07/15/cuanta-energia-solo-por-moverse</id><content type="html" xml:base="http://bonsaitech.net/salud/2018/07/15/cuanta-energia-solo-por-moverse.html">&lt;p&gt;Existen muchas publicaciones acerca de la energía que consumimos, pero ¿Cómo tener una estimación simple de esta cantidad?  ¿Cómo se calculan esos 2,000 calorías de una dieta “normal”? ¿Cómo funcionan las aplicaciones Smartphone para este propósito? ¿Podemos calcularlo sin una app? Y las preguntas siguen. Este post pretende mostrar una simple y razonable manera de calcular nuestras calorías sólo por mover nuestro cuerpo.&lt;/p&gt;
+
+&lt;p&gt;El concepto básico detrás de esto, viene de la Mecánica clásica, pero no te asustes, es más simple que eso. La fórmula establece que la energía se calcula como la multiplicación entre fuerza y distancia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;W=F*d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lo anterior es la expresión matemática y si consideramos, idealmente, que sólo moveremos nuestro peso, entonces necesitamos esta cantidad y la distancia (utilizaremos las unidades del Sistema Internacional).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mecanica-clasica-fuerza-y-distancia.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las unidad de fuerza se mide en Newton (N) y la “magia” ocurre de la siguiente manera:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;F=m*g&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Donde m: es la masa de tu cuerpo en kilo-gramos (kg)
+								 g: gravedad en m/s2&lt;/p&gt;
+
+&lt;p&gt;Finalmente las Unidades de la Fuerza son:
+Funits = kg.m/s2=N&lt;/p&gt;
+
+&lt;p&gt;Los pasos para que hagas los cálculos tú mismo:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Toma tu peso en kilo-gramos (kg).&lt;/li&gt;
+  &lt;li&gt;Considera una gravedad con un valor de 9.81m/s2.&lt;/li&gt;
+  &lt;li&gt;Toma un valor aproximado de la distancia que caminas en kilo-metros (km).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O usa la calculadora de energía:&lt;/p&gt;
+
+&lt;p&gt;Your weight in kg : &lt;input id=&quot;firstNumber&quot; type=&quot;text&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+Distance you move in km:&lt;input id=&quot;secondNumber&quot; type=&quot;text&quot; /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;input onclick=&quot;multiplyBy()&quot; type=&quot;button&quot; value=&quot;Calculate Energy&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;The Result is : &lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;&lt;span id=&quot;cals&quot; style=&quot;font-size: 250%&quot;&gt;0&lt;/span&gt; food calories&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;script&gt;
+function multiplyBy()
+{
+	var calo=0;
+    num1 = document.getElementById(&quot;firstNumber&quot;).value;
+    num2 = document.getElementById(&quot;secondNumber&quot;).value;
+	calo = parseFloat(document.getElementById(&quot;cals&quot;).innerHTML = Math.round((num1 * num2 * 9.81)/4.184)).toFixed(2);
+}
+
+&lt;/script&gt;
+
+&lt;p&gt;Explicaremos las calorías pronto!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://central-hub.blogspot.com/2018/06/how-much-energy-just-for-moving.html&quot;&gt;English Version&lt;/a&gt;&lt;/p&gt;</content><author><name>Leonel Hernández</name></author><category term="salud" /><summary type="html">Existen muchas publicaciones acerca de la energía que consumimos, pero ¿Cómo tener una estimación simple de esta cantidad? ¿Cómo se calculan esos 2,000 calorías de una dieta “normal”? ¿Cómo funcionan las aplicaciones Smartphone para este propósito? ¿Podemos calcularlo sin una app? Y las preguntas siguen. Este post pretende mostrar una simple y razonable manera de calcular nuestras calorías sólo por mover nuestro cuerpo.</summary></entry><entry><title type="html">20 Herramientas Secretas de Shopify Parte III: Ante todo, profesionalidad</title><link href="http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad.html" rel="alternate" type="text/html" title="20 Herramientas Secretas de Shopify Parte III: Ante todo, profesionalidad" /><published>2018-06-20T23:12:00-05:00</published><updated>2018-06-20T23:12:00-05:00</updated><id>http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad</id><content type="html" xml:base="http://bonsaitech.net/ecommerce/2018/06/20/20-herramientas-secretas-de-shopify-parte-iii-ante-todo-profesionalidad.html">&lt;p&gt;&lt;strong&gt;La calidad y la profesionalidad&lt;/strong&gt; son dos importantes cuestiones que van de la mano, ambas son necesarias para aumentar la &lt;strong&gt;confianza&lt;/strong&gt; que tienen tus &lt;strong&gt;potenciales clientes&lt;/strong&gt; hacia tu e-commerce, y tu marca.&lt;/p&gt;
 
 &lt;p&gt;En esta entrega te voy a enseñar las siguientes 4 herramientas que ofrece Shopify que te ayudarán a profesionalizar tu e-commerce.&lt;/p&gt;
 

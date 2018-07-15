@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>http://bonsaitech.net/</title>
+   
+   <link>http://bonsaitech.net/</link>
+   <description>Blog de tecnología, ecommerce y más</description>
+   <language>es-mx</language>
+   
+      
+            
+      
+            
+               
+               
+                  <managingEditor>Leonel Hernández</managingEditor>
+            
+      
+   
+   <title>
+   <![CDATA[ Leonel Hernández - Diego Plascencia Blog ]]>
+   </title>
+   <description>
+   <![CDATA[ Blog de tecnología, ecommerce y más ]]>
+   </description>
+   <link>http://bonsaitech.net/</link>
+   <image>
+   <url>http://bonsaitech.net/assets/images/favicon.png</url>
+   <title>Leonel Hernández - Diego Plascencia Blog</title>
+   <link>http://bonsaitech.net/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="http://bonsaitech.net/author/leonel/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>¿Cuanta energía solo por moverse?</title>
+	  <link>http://bonsaitech.net/salud/2018/07/15/cuanta-energia-solo-por-moverse.html</link>
+		
+				
+		
+				
+						<author>Leonel Hernández</author>
+				
+		
+	  <pubDate>2018-07-15T14:15:20-05:00</pubDate>
+	  <guid>http://bonsaitech.net/salud/2018/07/15/cuanta-energia-solo-por-moverse.html</guid>
+	  <description><![CDATA[
+	     <p>Existen muchas publicaciones acerca de la energía que consumimos, pero ¿Cómo tener una estimación simple de esta cantidad?  ¿Cómo se calculan esos 2,000 calorías de una dieta “normal”? ¿Cómo funcionan las aplicaciones Smartphone para este propósito? ¿Podemos calcularlo sin una app? Y las preguntas siguen. Este post pretende mostrar una simple y razonable manera de calcular nuestras calorías sólo por mover nuestro cuerpo.</p>
+
+<p>El concepto básico detrás de esto, viene de la Mecánica clásica, pero no te asustes, es más simple que eso. La fórmula establece que la energía se calcula como la multiplicación entre fuerza y distancia.</p>
+
+<p><strong>W=F*d</strong></p>
+
+<p>Lo anterior es la expresión matemática y si consideramos, idealmente, que sólo moveremos nuestro peso, entonces necesitamos esta cantidad y la distancia (utilizaremos las unidades del Sistema Internacional).</p>
+
+<p><img src="/assets/images/mecanica-clasica-fuerza-y-distancia.png" alt="" /></p>
+
+<p>Las unidad de fuerza se mide en Newton (N) y la “magia” ocurre de la siguiente manera:</p>
+
+<p><strong>F=m*g</strong></p>
+
+<p>Donde m: es la masa de tu cuerpo en kilo-gramos (kg)
+								 g: gravedad en m/s2</p>
+
+<p>Finalmente las Unidades de la Fuerza son:
+Funits = kg.m/s2=N</p>
+
+<p>Los pasos para que hagas los cálculos tú mismo:</p>
+
+<ol>
+  <li>Toma tu peso en kilo-gramos (kg).</li>
+  <li>Considera una gravedad con un valor de 9.81m/s2.</li>
+  <li>Toma un valor aproximado de la distancia que caminas en kilo-metros (km).</li>
+</ol>
+
+<p>O usa la calculadora de energía:</p>
+
+<p>Your weight in kg : <input id="firstNumber" type="text" /><br /><br />
+Distance you move in km:<input id="secondNumber" type="text" /><br /><br />
+<input onclick="multiplyBy()" type="button" value="Calculate Energy" /><br /><br /></p>
+
+<p><b><span style="font-size: medium;">The Result is : </span></b><br /><br />
+<b><span id="cals" style="font-size: 250%">0</span> food calories</b><br /></p>
+
+<script>
+function multiplyBy()
+{
+	var calo=0;
+    num1 = document.getElementById("firstNumber").value;
+    num2 = document.getElementById("secondNumber").value;
+	calo = parseFloat(document.getElementById("cals").innerHTML = Math.round((num1 * num2 * 9.81)/4.184)).toFixed(2);
+}
+
+</script>
+
+<p>Explicaremos las calorías pronto!</p>
+
+<p><a href="http://central-hub.blogspot.com/2018/06/how-much-energy-just-for-moving.html">English Version</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
