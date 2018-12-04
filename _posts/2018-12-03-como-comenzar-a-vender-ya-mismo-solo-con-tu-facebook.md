@@ -3,7 +3,7 @@ title: Cómo comenzar a vender ya mismo, solo con tu Facebook
 layout: post
 cover: assets/images/cover_fbpost.jpg
 navigation: true
-date: '2018-12-04 14:10:00'
+date: '2018-12-03 14:10:00'
 categories: ecommerce
 class: post-template
 subclass: post
